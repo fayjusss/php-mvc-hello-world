@@ -27,7 +27,7 @@
     }
 
     public function textClicked() {
-      $this->model->text = 'Text Updated';
+      $this->model->text = 'Updated Hello World!';
     }
   }
 
